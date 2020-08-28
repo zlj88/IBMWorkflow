@@ -1,6 +1,6 @@
 本文简单介绍了Github Action的用法，并使用Gihub Action定时重启IBM cloud foundry容器。
 
-**摘要：**GitHub Actions是GitHub自家的持续集成及自动化工作流服务，它使用起来非常简单，只要在你的仓库根目录建立`.github/workflows`文件夹，将你的工作流配置(YML文件)放到这个目录下，就能启用GitHub Actions服务。
+摘要：GitHub Actions是GitHub自家的持续集成及自动化工作流服务，它使用起来非常简单，只要在你的仓库根目录建立`.github/workflows`文件夹，将你的工作流配置(YML文件)放到这个目录下，就能启用GitHub Actions服务。
 
 **关键字**：Github Action，IBM cloud foundry
 
